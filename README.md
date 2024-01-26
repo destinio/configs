@@ -1,2 +1,1 @@
-# configs
-config files
+# All the configs ⚙️
